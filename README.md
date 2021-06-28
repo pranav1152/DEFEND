@@ -1,7 +1,7 @@
 # DEFEND - Android Application of Trust and Safety
 
 <p align="center">
-<img src="https://github.com/atharva-satpute/propublic_androiddevelopment_hack21/blob/main/Images/DEFEND.jpg" height="400">
+<img src="https://github.com/pranav1152/DEFEND/blob/main/Images/DEFEND.jpg" height="400">
 </p>
 
 ## TAGLINE
@@ -18,12 +18,12 @@ DEFEND is an extension to the existing chat applications, that focuses on detect
 
 ## SYSTEM ARCHITECTURE
 <p align="center">
-<img src="https://github.com/atharva-satpute/propublic_androiddevelopment_hack21/blob/main/Images/System%20Architecture.jpeg" height="400">
+<img src="https://github.com/pranav1152/DEFEND/blob/main/Images/System%20Architecture.jpeg" height="400">
 </p>
 
 ## WORK FLOW
 <p align="center">
-<img src="https://github.com/atharva-satpute/propublic_androiddevelopment_hack21/blob/main/Images/Workflow.jpeg" height="400">
+<img src="https://github.com/pranav1152/DEFEND/blob/main/Images/Workflow.jpeg" height="400">
 </p>
 
 ## CHALLENGES WE RAN INTO
@@ -34,5 +34,5 @@ DEFEND is an extension to the existing chat applications, that focuses on detect
 
 ## DESIGN
 <p align="center">
-<img src="https://github.com/atharva-satpute/propublic_androiddevelopment_hack21/blob/main/Images/ScreenShot1.jpeg" height="400"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/atharva-satpute/propublic_androiddevelopment_hack21/blob/main/Images/ScreenShot2.jpeg" height="400">
+<img src="https://github.com/pranav1152/DEFEND/blob/main/Images/ScreenShot1.jpeg" height="400"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/pranav1152/DEFEND/blob/main/Images/ScreenShot2.jpeg" height="400">
 </p>
