@@ -1,11 +1,18 @@
 # DEFEND - Android Application of Trust and Safety
 
 <p align="center">
-<img src="https://github.com/pranav1152/DEFEND/blob/main/Images/DEFEND.jpg" height="400">
+<img src="https://github.com/pranav1152/DEFEND/blob/main/Images/Certificate%20of%20Excelence.png" height="400" width="800">
+</p>
+<p align="center">
+<a href="https://ecelliiitp.karoverify.xyz/Certificates/Th_App/a05b8612a6b491ea945666a2b66ef629pra.png" target="_blank"><i>click here to see online</i></a>
 </p>
 
 ## TAGLINE
 DEFEND is an extension to the existing chat applications, that focuses on detecting fakeness in messages, categories to which it belongs and restricts sensitive and fake content from spreading within the community without compromising the privacy of the user.
+
+<p align="center">
+<img src="https://github.com/pranav1152/DEFEND/blob/main/Images/DEFEND.jpg" height="400">
+</p>
 
 ## THE PROBLEM IT SOLVES
 <ul>
